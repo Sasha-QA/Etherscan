@@ -6,3 +6,5 @@ Create TEST SCENARIOS for the registration form on Etherscan website (https://et
 Explain what type of tools you would use to enable an automatic testing system for the task above and how they would be utilized.
 
 Create E2E browser tests that will cover all test scenarios
+
+In this project I am using Java programming language, and Oracle OpenJDK version 19.0.2. This is a Maven project, used Selenium and for testing used TestNG.
