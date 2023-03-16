@@ -7,4 +7,4 @@ Explain what type of tools you would use to enable an automatic testing system f
 
 Create E2E browser tests that will cover all test scenarios
 
-In this project I am using Java programming language, and Oracle OpenJDK version 19.0.2. This is a Maven project, used Selenium and for testing used TestNG.
+In this project I am using Java programming language, and Oracle OpenJDK version 19.0.2. This is a Maven project, and I've used Selenium for it's methods beside Java methods, and for testing I have used TestNG.
